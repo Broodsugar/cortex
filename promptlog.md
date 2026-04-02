@@ -3,6 +3,11 @@
 **Prompt**: The log looks bad, no line breaks. Let's make it render more pleasantly on GitHub. (Chose table format.)
 **Relevance**: 0.8
 
+**Timestamp**: Apr 3, 00:30 HKT, 2026
+**PromptID**: 29
+**Prompt**: Update contributing.md and README.md with your suggestions.
+**Relevance**: 1.0
+
 **Timestamp**: Apr 3, 00:20 HKT, 2026
 **PromptID**: 27
 **Prompt**: I don't quite like the way that looks. Let's make it a ring buffer of the last 30 days instead, without a legend. Just 30 boxes.

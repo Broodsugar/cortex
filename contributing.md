@@ -1,41 +1,52 @@
 # Contributing
 
-Every change to any document in this repo should be logged in @changelog.md and @promptlog.md
+Every change to any document in this repo should be logged in changelog.md and promptlog.md.
 
 **Always update promptlog.md before changelog.md.** The changelog references PromptIDs, so the promptlog entry must exist first to avoid dangling references.
 
+---
 
-### Changelog.md
-The changelog is append-only, with the latest entry at the top.
-In the changelog, describe the change you made with this format:
+## Changelog
 
-**Timestamp**: [when it happened. day, hour,year. Apr 2, 21:03 HKT, 2006]
-**Change**: [what you did]
-**Justification**: [why you did it]
-**PromptID**: [a sequential ID]
+Append-only, latest entry on top.
 
-Humans may manually add to the changelog, and will populate PromptID simply with their name. They do not count towards the promptID sequence counter.
+| Field | Description |
+|-------|-------------|
+| **Timestamp** | When it happened (e.g. `Apr 2, 21:03 HKT, 2026`) |
+| **Change** | What changed |
+| **Justification** | Why it changed |
+| **PromptID** | Sequential ID matching the promptlog, or a name for human entries |
 
-### Promptlog.md
-The promptlog is append-only with the latest entry on top.
-In the promptlog, log with this format:
+Humans may manually add to the changelog using their name as the PromptID. Human entries do not count towards the PromptID sequence counter.
 
-**Timestamp**: [when I prompted you]
-**PromptID**: [a sequential ID]
-**Prompt**: [my original prompt]
-**Relevance**: [0-1 score for how relevant this prompt is to the current attention goal in @attention.md]
+## Promptlog
 
-The relevance score resets each session (since attention goals change between sessions). If the last 10 prompts in the current session have a cumulative relevance below 0.5, Claude should challenge Nils to refocus on his attention goal.
+Append-only, latest entry on top.
 
-### Redgreencalendar.md
-Append-only, latest entry on top. Nils logs one entry per day:
+| Field | Description |
+|-------|-------------|
+| **Timestamp** | When the prompt was sent |
+| **PromptID** | Sequential ID |
+| **Prompt** | The original prompt (summarized if long) |
+| **Relevance** | 0–1 score against the current attention goal in attention.md |
 
-**Green day**: ate at a caloric deficit (will not gain weight) AND exercised enough to maintain or build strength.
-**Red day**: did not meet both criteria.
+The relevance score resets each session (since attention goals change between sessions). If the last 10 prompts in the current session have a cumulative relevance below 0.5, Claude should challenge Nils to refocus.
 
-The file also tracks streaks at the top: current streak and longest green streak. Update these when a new day is logged.
+## Red/Green Calendar
+
+Append-only, latest entry on top, in a markdown table.
+
+| Status | Criteria |
+|--------|----------|
+| 🟩 **Green day** | Ate at a caloric deficit (will not gain weight) AND exercised enough to maintain or build strength |
+| 🟥 **Red day** | Did not meet both criteria |
+
+The file also contains:
+- **Streak counters** at the top (current streak and longest green streak) — update when a new day is logged.
+- **30-day visualization** — a row of 30 emoji boxes (⬛🟥🟩), newest on the right. Regenerate when a new day is logged.
 
 If Claude notices a day has been skipped, call it out.
 
-### Claude.md
-This is where you find instructions for how to collaborate with me.
+## Claude.md
+
+Instructions for how Claude should collaborate with Nils. See the file for details.

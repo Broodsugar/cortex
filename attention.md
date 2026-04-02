@@ -1,1 +1,1 @@
-I want to get this repo onto my github.
+Improve formatting of all documents in the exocortex.
