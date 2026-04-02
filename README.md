@@ -6,7 +6,7 @@ An exocortex is a living system for thinking, planning, and acting — built thr
 
 | File | Purpose |
 |------|---------|
-| [nils.md](nils.md) | Who Nils is — identity, family, body |
+| [nils.md](nils.md) | Context about who Nils is |
 | [attention.md](attention.md) | Session focus. Only Nils edits this. Claude nudges him back if he strays. |
 | [goals.md](goals.md) | What we're working towards and how far along we are |
 | [redgreencalendar.md](redgreencalendar.md) | Daily red/green accountability log for diet and exercise |

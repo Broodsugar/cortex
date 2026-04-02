@@ -3,6 +3,11 @@
 **Prompt**: The log looks bad, no line breaks. Let's make it render more pleasantly on GitHub. (Chose table format.)
 **Relevance**: 0.8
 
+**Timestamp**: Apr 3, 00:35 HKT, 2026
+**PromptID**: 30
+**Prompt**: goals.md doesn't render very well on GitHub.
+**Relevance**: 1.0
+
 **Timestamp**: Apr 3, 00:30 HKT, 2026
 **PromptID**: 29
 **Prompt**: Update contributing.md and README.md with your suggestions.

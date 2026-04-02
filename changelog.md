@@ -1,3 +1,8 @@
+**Timestamp**: Apr 3, 00:35 HKT, 2026
+**Change**: Converted goals.md from bold-field format to tables — one for daily habits, one for long-term goals. Added a top-level heading.
+**Justification**: Bold fields without line breaks rendered as a wall of text on GitHub. Tables make progress scannable.
+**PromptID**: 30
+
 **Timestamp**: Apr 3, 00:30 HKT, 2026
 **Change**: Reformatted contributing.md — added tables for field descriptions, updated redgreencalendar section to reflect table format and 30-day visualization, added horizontal rule and heading hierarchy. Reformatted README.md — converted file map from bullet list to a table with clickable links.
 **Justification**: Both files rendered poorly on GitHub. Tables make the structure scannable and the links in README.md are now clickable.
