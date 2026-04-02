@@ -1,3 +1,8 @@
+**Timestamp**: Apr 3, 00:40 HKT, 2026
+**Change**: Added MIT LICENSE file and a license section in README.md.
+**Justification**: Repo is public on GitHub and needs a license to clarify usage rights.
+**PromptID**: 31
+
 **Timestamp**: Apr 3, 00:35 HKT, 2026
 **Change**: Converted goals.md from bold-field format to tables — one for daily habits, one for long-term goals. Added a top-level heading.
 **Justification**: Bold fields without line breaks rendered as a wall of text on GitHub. Tables make progress scannable.

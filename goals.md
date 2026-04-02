@@ -18,5 +18,5 @@ Things that accumulate over time.
 
 | Goal | Progress | Last updated |
 |------|----------|--------------|
-| Create a comprehensive exocortex | 1% | Apr 2 |
+| Create a comprehensive exocortex | 2% | Apr 3 |
 | Make a version of the Exocortex that can text me on WhatsApp or Telegram | 1% | Apr 2 |

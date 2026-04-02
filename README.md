@@ -14,3 +14,7 @@ An exocortex is a living system for thinking, planning, and acting — built thr
 | [values.md](values.md) | What matters, and what constrains the work |
 | [claude.md](claude.md) | How we collaborate |
 | [contributing.md](contributing.md) | How changes are tracked |
+
+## License
+
+[MIT](LICENSE)

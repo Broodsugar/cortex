@@ -3,6 +3,11 @@
 **Prompt**: The log looks bad, no line breaks. Let's make it render more pleasantly on GitHub. (Chose table format.)
 **Relevance**: 0.8
 
+**Timestamp**: Apr 3, 00:40 HKT, 2026
+**PromptID**: 31
+**Prompt**: I want this repo to be MIT licensed, so we need to put copyright notices.
+**Relevance**: 0.9
+
 **Timestamp**: Apr 3, 00:35 HKT, 2026
 **PromptID**: 30
 **Prompt**: goals.md doesn't render very well on GitHub.
