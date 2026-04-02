@@ -1,3 +1,13 @@
+**Timestamp**: Apr 3, 00:15 HKT, 2026
+**PromptID**: 26
+**Prompt**: I'd be interested in redgreencalendar.md having a markdown visualization of my last 365 days, like the GitHub commit history. Black/white = no data, red = red, green = green.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 3, 00:10 HKT, 2026
+**PromptID**: 25
+**Prompt**: OK to force push. Maybe we should rename introduction.md to readme.md also.
+**Relevance**: 0.9
+
 **Timestamp**: Apr 3, 00:00 HKT, 2026
 **PromptID**: 24
 **Prompt**: Is there a way I can reference this repo in Cursor while working on another repo, without mixing git commits? (Rejected option 2 — doesn't want other repo's CLAUDE.md to reference the exocortex.)

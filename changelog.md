@@ -1,3 +1,13 @@
+**Timestamp**: Apr 3, 00:15 HKT, 2026
+**Change**: Added a GitHub-style 365-day heatmap visualization to redgreencalendar.md using emoji squares (⬛🟥🟩). Should be regenerated whenever new days are logged.
+**Justification**: Visual accountability — a wall of black with 3 red dots tells a story faster than text.
+**PromptID**: 26
+
+**Timestamp**: Apr 3, 00:10 HKT, 2026
+**Change**: Initialized a proper git repo in the exocortex directory (was previously inheriting from the home directory), renamed introduction.md to README.md, and pushed to GitHub at Broodsugar/exocortex.
+**Justification**: The exocortex needs its own repo to keep commits clean. README.md renders on GitHub's landing page.
+**PromptID**: 25
+
 **Timestamp**: Apr 3, 00:00 HKT, 2026
 **Change**: Updated promptlog with prompts 24 (multi-repo Cursor question).
 **Justification**: Logging ongoing conversation.
