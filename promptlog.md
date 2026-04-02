@@ -1,3 +1,8 @@
+**Timestamp**: Apr 3, 00:20 HKT, 2026
+**PromptID**: 27
+**Prompt**: I don't quite like the way that looks. Let's make it a ring buffer of the last 30 days instead, without a legend. Just 30 boxes.
+**Relevance**: 0.8
+
 **Timestamp**: Apr 3, 00:15 HKT, 2026
 **PromptID**: 26
 **Prompt**: I'd be interested in redgreencalendar.md having a markdown visualization of my last 365 days, like the GitHub commit history. Black/white = no data, red = red, green = green.

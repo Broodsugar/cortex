@@ -1,3 +1,8 @@
+**Timestamp**: Apr 3, 00:20 HKT, 2026
+**Change**: Replaced the 365-day heatmap in redgreencalendar.md with a simpler 30-day ring buffer — just 30 emoji boxes, no legend, newest on the right.
+**Justification**: Nils found the full-year grid too noisy. 30 days is the actionable window anyway.
+**PromptID**: 27
+
 **Timestamp**: Apr 3, 00:15 HKT, 2026
 **Change**: Added a GitHub-style 365-day heatmap visualization to redgreencalendar.md using emoji squares (⬛🟥🟩). Should be regenerated whenever new days are logged.
 **Justification**: Visual accountability — a wall of black with 3 red dots tells a story faster than text.
