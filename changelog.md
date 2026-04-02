@@ -1,3 +1,8 @@
+**Timestamp**: Apr 3, 00:25 HKT, 2026
+**Change**: Converted the day log in redgreencalendar.md from plain text lines to a markdown table for better GitHub rendering.
+**Justification**: Plain text entries rendered without line breaks on GitHub.
+**PromptID**: 28
+
 **Timestamp**: Apr 3, 00:20 HKT, 2026
 **Change**: Replaced the 365-day heatmap in redgreencalendar.md with a simpler 30-day ring buffer — just 30 emoji boxes, no legend, newest on the right.
 **Justification**: Nils found the full-year grid too noisy. 30 days is the actionable window anyway.
