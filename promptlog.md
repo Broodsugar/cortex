@@ -3,6 +3,36 @@
 **Prompt**: The log looks bad, no line breaks. Let's make it render more pleasantly on GitHub. (Chose table format.)
 **Relevance**: 0.8
 
+**Timestamp**: Apr 3, 01:15 HKT, 2026
+**PromptID**: 36
+**Prompt**: Create a folder project/auki-demo and move the two demoplan2 files there.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 3, 01:20 HKT, 2026
+**PromptID**: 37
+**Prompt**: Inside the auki-demo folder, let's start executing on the signaling server plan.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 3, 01:15 HKT, 2026
+**PromptID**: 36
+**Prompt**: Make an implementation plan for the signaling server. Include tests and how we can demonstrate that it is done.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 3, 01:00 HKT, 2026
+**PromptID**: 34
+**Prompt**: Let's make an implementation plan in the exocortex repo. I don't want to pollute the main auki-sdk repo.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 3, 00:50 HKT, 2026
+**PromptID**: 33
+**Prompt**: Yes [test the symlink]. I have updated my attention: working on demoplan2.md in auki-sdk, want to get back in that headspace.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 3, 00:45 HKT, 2026
+**PromptID**: 32
+**Prompt**: Let's try the symlink option for pulling in auki-sdk. It's in the same folder as exocortex.
+**Relevance**: 1.0
+
 **Timestamp**: Apr 3, 00:40 HKT, 2026
 **PromptID**: 31
 **Prompt**: I want this repo to be MIT licensed, so we need to put copyright notices.

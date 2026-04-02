@@ -1,3 +1,33 @@
+**Timestamp**: Apr 3, 01:20 HKT, 2026
+**Change**: Built the signaling server (project/auki-demo/signaling-server/). Express + Socket.io, TypeScript. Room creation/joining, SDP/ICE relay, disconnect handling, stale room cleanup. 20/20 tests passing (10 unit, 10 integration).
+**Justification**: First module in the demo build order. Foundation for all WebRTC communication.
+**PromptID**: 37
+
+**Timestamp**: Apr 3, 01:15 HKT, 2026
+**Change**: Created project/auki-demo/ folder and moved demoplan2-implementation.md and demoplan2-signaling-server.md into it.
+**Justification**: Keeps project-specific working docs organized and separate from core exocortex files.
+**PromptID**: 36
+
+**Timestamp**: Apr 3, 01:10 HKT, 2026
+**Change**: Created demoplan2-signaling-server.md — detailed implementation plan for the signaling server module, including Socket.io event specs, error cases, file structure, unit tests, integration tests, smoke test, and done criteria. Also updated pushups goal to 100% for today.
+**Justification**: First module to build. Needs a clear spec before coding starts.
+**PromptID**: 35
+
+**Timestamp**: Apr 3, 01:00 HKT, 2026
+**Change**: Created demoplan2-implementation.md — a full implementation plan for the auki-sdk browser-to-browser pose exchange demo. Covers 8 modules, build order, wire format, data structures, open questions, and a 4-week timeline.
+**Justification**: Nils wants to plan the demo build without polluting the auki-sdk repo. The exocortex is the right place for working docs.
+**PromptID**: 34
+
+**Timestamp**: Apr 3, 00:50 HKT, 2026
+**Change**: Updated promptlog with prompt 33 (attention shift to auki-sdk demoplan2.md).
+**Justification**: Logging ongoing conversation.
+**PromptID**: 33
+
+**Timestamp**: Apr 3, 00:45 HKT, 2026
+**Change**: Created a symlink from exocortex/auki-sdk to /Users/nilspihl/auki-sdk, and added a .gitignore to exclude it. Claude can now read the auki-sdk repo for context without it appearing in the exocortex's git history.
+**Justification**: Nils wants work context from auki-sdk available in exocortex sessions without coupling the repos.
+**PromptID**: 32
+
 **Timestamp**: Apr 3, 00:40 HKT, 2026
 **Change**: Added MIT LICENSE file and a license section in README.md.
 **Justification**: Repo is public on GitHub and needs a license to clarify usage rights.

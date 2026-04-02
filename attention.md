@@ -1,1 +1,1 @@
-Improve formatting of all documents in the exocortex.
+I was working on the file demoplan2.md in the auki-sdk earlier today, and I want to get back in that headspace and keep working.
