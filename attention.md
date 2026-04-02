@@ -1,1 +1,3 @@
-I was working on the file demoplan2.md in the auki-sdk earlier today, and I want to get back in that headspace and keep working.
+Yesterday we were working on the signaling server example code. we finished with fallback to relay when rtc didnt work, and we managed to get messages sent.
+
+Next step, show matthieu what you did

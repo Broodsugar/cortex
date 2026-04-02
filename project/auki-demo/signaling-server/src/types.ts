@@ -12,6 +12,7 @@ export interface ClientToServerEvents {
   sdp_offer: (payload: { sdp: unknown }) => void;
   sdp_answer: (payload: { sdp: unknown }) => void;
   ice_candidate: (payload: { candidate: unknown }) => void;
+  relay_message: (payload: { data: unknown }) => void;
 }
 
 // Server → Client events
@@ -21,6 +22,7 @@ export interface ServerToClientEvents {
   sdp_offer: (payload: { sdp: unknown }) => void;
   sdp_answer: (payload: { sdp: unknown }) => void;
   ice_candidate: (payload: { candidate: unknown }) => void;
+  relay_message: (payload: { data: unknown }) => void;
   peer_disconnected: () => void;
   error: (payload: { message: string }) => void;
 }

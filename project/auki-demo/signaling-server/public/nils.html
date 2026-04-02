@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nils — Join Room</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: monospace; background: #111; color: #eee; padding: 20px; max-width: 600px; }
+    h1 { margin-bottom: 16px; font-size: 18px; color: #3b82f6; }
+    button {
+      background: #333; color: #eee; border: 1px solid #555;
+      padding: 8px 16px; border-radius: 4px; cursor: pointer;
+      font-family: monospace; margin: 4px 4px 4px 0;
+    }
+    button:hover { background: #444; }
+    button:disabled { opacity: 0.3; cursor: not-allowed; }
+    input {
+      background: #222; color: #eee; border: 1px solid #555;
+      padding: 8px; border-radius: 4px; font-family: monospace;
+    }
+    .status { margin: 8px 0; font-size: 13px; }
+    .status span { padding: 2px 8px; border-radius: 3px; }
+    .connected { background: #166534; }
+    .disconnected { background: #7f1d1d; }
+    .relay { background: #854d0e; }
+    .join-row { display: flex; gap: 8px; align-items: center; }
+    .join-row input { width: 140px; font-size: 18px; letter-spacing: 4px; text-transform: uppercase; }
+    .send-row { margin-top: 12px; display: flex; gap: 8px; }
+    .send-row input { flex: 1; }
+    .log {
+      margin-top: 12px; background: #0a0a0a; border: 1px solid #333;
+      border-radius: 4px; padding: 8px; height: 350px; overflow-y: auto;
+      font-size: 13px; line-height: 1.6;
+    }
+    .log .event { color: #888; }
+    .log .ok { color: #22c55e; }
+    .log .err { color: #ef4444; }
+    .log .msg { color: #facc15; }
+    .log .warn { color: #f97316; }
+  </style>
+</head>
+<body>
+  <h1>Nils (Joiner)</h1>
+  <div class="status">Socket: <span id="socket-status" class="disconnected">disconnected</span></div>
+  <div class="status">Transport: <span id="rtc-status" class="disconnected">not connected</span></div>
+  <div class="join-row">
+    <input id="room-input" placeholder="ROOM ID" maxlength="6">
+    <button id="btn-join" onclick="joinRoom()">Join Room</button>
+  </div>
+  <div class="send-row">
+    <input id="msg-input" placeholder="Message to Matthieu..." disabled>
+    <button id="btn-send" onclick="sendMsg()" disabled>Send</button>
+  </div>
+  <div class="log" id="log"></div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    function log(text, cls = "event") {
+      const el = document.getElementById("log");
+      const line = document.createElement("div");
+      line.className = cls;
+      line.textContent = `[${new Date().toLocaleTimeString()}] ${text}`;
+      el.appendChild(line);
+      el.scrollTop = el.scrollHeight;
+    }
+
+    const socket = io({ transports: ["websocket"] });
+    let peer = null;
+    let channel = null;
+    let useRelay = false;
+    let remoteDescriptionSet = false;
+    let rtcTimeout = null;
+    const pendingCandidates = [];
+
+    function enableMessaging(transport) {
+      document.getElementById("rtc-status").textContent = transport;
+      document.getElementById("rtc-status").className = transport === "relay" ? "relay" : "connected";
+      document.getElementById("msg-input").disabled = false;
+      document.getElementById("btn-send").disabled = false;
+    }
+
+    function switchToRelay() {
+      if (useRelay) return;
+      useRelay = true;
+      log("WebRTC failed — switching to relay via server", "warn");
+      enableMessaging("relay");
+    }
+
+    // --- Socket events ---
+
+    socket.on("connect", () => {
+      document.getElementById("socket-status").textContent = "connected";
+      document.getElementById("socket-status").className = "connected";
+      log("Socket connected", "ok");
+    });
+
+    socket.on("disconnect", () => {
+      document.getElementById("socket-status").textContent = "disconnected";
+      document.getElementById("socket-status").className = "disconnected";
+      log("Socket disconnected", "err");
+    });
+
+    socket.on("room_ready", ({ peer_id }) => {
+      log("Paired with creator", "ok");
+      // Fall back to relay if WebRTC doesn't connect in 8 seconds
+      rtcTimeout = setTimeout(switchToRelay, 8000);
+    });
+
+    socket.on("sdp_offer", async ({ sdp }) => {
+      try {
+        log("Received SDP offer", "event");
+        setupPeer();
+        await peer.setRemoteDescription(new RTCSessionDescription(sdp));
+        remoteDescriptionSet = true;
+        for (const c of pendingCandidates) {
+          await peer.addIceCandidate(new RTCIceCandidate(c));
+        }
+        pendingCandidates.length = 0;
+        const answer = await peer.createAnswer();
+        await peer.setLocalDescription(answer);
+        socket.emit("sdp_answer", { sdp: { type: answer.type, sdp: answer.sdp } });
+        log("Sent SDP answer", "event");
+      } catch (e) {
+        log(`SDP error: ${e.message}`, "err");
+      }
+    });
+
+    socket.on("ice_candidate", async ({ candidate }) => {
+      if (!candidate) return;
+      if (!peer || !remoteDescriptionSet) {
+        pendingCandidates.push(candidate);
+        return;
+      }
+      try {
+        await peer.addIceCandidate(new RTCIceCandidate(candidate));
+      } catch (e) {
+        log(`ICE error: ${e.message}`, "err");
+      }
+    });
+
+    socket.on("relay_message", ({ data }) => {
+      log(`Matthieu: ${data}`, "msg");
+    });
+
+    socket.on("peer_disconnected", () => {
+      log("Peer disconnected", "err");
+      document.getElementById("rtc-status").textContent = "peer left";
+      document.getElementById("rtc-status").className = "disconnected";
+      document.getElementById("msg-input").disabled = true;
+      document.getElementById("btn-send").disabled = true;
+    });
+
+    socket.on("error", ({ message }) => {
+      log(`Error: ${message}`, "err");
+    });
+
+    // --- Actions ---
+
+    function joinRoom() {
+      const roomId = document.getElementById("room-input").value.trim().toUpperCase();
+      if (!roomId) return;
+      socket.emit("join-room", { room_id: roomId });
+      document.getElementById("btn-join").disabled = true;
+      log(`Joining room: ${roomId}`, "event");
+    }
+
+    function setupPeer() {
+      peer = new RTCPeerConnection({
+        iceServers: [{ urls: "stun:stun.l.google.com:19302" }]
+      });
+
+      peer.onconnectionstatechange = () => {
+        log(`Connection: ${peer.connectionState}`, "event");
+        if (peer.connectionState === "failed") switchToRelay();
+      };
+
+      peer.onicecandidate = (e) => {
+        if (e.candidate) {
+          socket.emit("ice_candidate", { candidate: e.candidate.toJSON() });
+        }
+      };
+
+      peer.ondatachannel = (e) => {
+        channel = e.channel;
+        channel.onopen = () => {
+          clearTimeout(rtcTimeout);
+          log("WebRTC data channel OPEN", "ok");
+          enableMessaging("webrtc");
+        };
+        channel.onmessage = (ev) => log(`Matthieu: ${ev.data}`, "msg");
+      };
+    }
+
+    function sendMsg() {
+      const input = document.getElementById("msg-input");
+      if (!input.value) return;
+
+      if (!useRelay && channel && channel.readyState === "open") {
+        channel.send(input.value);
+      } else {
+        socket.emit("relay_message", { data: input.value });
+      }
+      log(`You: ${input.value}`, "msg");
+      input.value = "";
+    }
+
+    document.getElementById("room-input").addEventListener("keydown", (e) => {
+      if (e.key === "Enter") joinRoom();
+    });
+    document.getElementById("msg-input").addEventListener("keydown", (e) => {
+      if (e.key === "Enter") sendMsg();
+    });
+  </script>
+</body>
+</html>

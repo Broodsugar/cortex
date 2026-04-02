@@ -1,3 +1,8 @@
+**Timestamp**: Apr 3, 00:50 HKT, 2026
+**Change**: Added relay fallback to signaling server — when WebRTC fails (symmetric NAT, no TURN), messages pass through Socket.io instead. Created smoke test pages (matthieu.html, nils.html). Successfully tested Nils (HK) ↔ Matthieu (Thailand) messaging via ngrok + relay. Also added relay_message event to server types and handler.
+**Justification**: WebRTC peer-to-peer failed between HK and Thailand due to NAT restrictions. Relay mode unblocks testing while TURN is deferred.
+**PromptID**: 38
+
 **Timestamp**: Apr 3, 01:20 HKT, 2026
 **Change**: Built the signaling server (project/auki-demo/signaling-server/). Express + Socket.io, TypeScript. Room creation/joining, SDP/ICE relay, disconnect handling, stale room cleanup. 20/20 tests passing (10 unit, 10 integration).
 **Justification**: First module in the demo build order. Foundation for all WebRTC communication.

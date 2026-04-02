@@ -85,6 +85,15 @@ export function createApp() {
       io.to(peerId).emit("ice_candidate", { candidate });
     });
 
+    // Relay fallback — pass messages through the server when WebRTC fails
+    socket.on("relay_message", ({ data }) => {
+      const room = findRoomBySocket(socket.id!);
+      if (!room) return;
+      const peerId = getPeerId(room, socket.id!);
+      if (!peerId) return;
+      io.to(peerId).emit("relay_message", { data });
+    });
+
     socket.on("disconnect", () => {
       const room = findRoomBySocket(socket.id!);
       if (!room) return;

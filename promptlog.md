@@ -8,6 +8,11 @@
 **Prompt**: Create a folder project/auki-demo and move the two demoplan2 files there.
 **Relevance**: 0.8
 
+**Timestamp**: Apr 3, 00:50 HKT, 2026
+**PromptID**: 38
+**Prompt**: Series of prompts: test the signaling server locally (WebRTC failed due to mDNS/NAT), set up ngrok, test with Matthieu in Thailand (WebRTC failed due to symmetric NAT), add relay fallback, confirm messaging works via relay.
+**Relevance**: 1.0
+
 **Timestamp**: Apr 3, 01:20 HKT, 2026
 **PromptID**: 37
 **Prompt**: Inside the auki-demo folder, let's start executing on the signaling server plan.
