@@ -1,3 +1,3 @@
-Yesterday we were working on the signaling server example code. we finished with fallback to relay when rtc didnt work, and we managed to get messages sent.
+I want to create a roadmap for what Matthieu and I should produce by Sunday.
 
-Next step, show matthieu what you did
+The goal is to collaborative iterate super quickly, with several demo milestones per day, on the Auki SDK.

@@ -19,7 +19,22 @@ Browser A                 Signaling Server                 Browser B
 
 If WebRTC fails (e.g. restrictive NAT), the server also supports a `relay_message` fallback where messages pass through the server instead of peer-to-peer.
 
-## Running Locally
+## Quick Start (demo with ngrok)
+
+Run both the server and ngrok in one go:
+
+```bash
+cd /Users/nilspihl/exocortex/project/auki-demo/signaling-server
+npm run dev &
+ngrok http 3000 &
+sleep 2
+# Print the public URL
+curl -s http://localhost:4040/api/tunnels | python3 -c "import sys,json; print(json.load(sys.stdin)['tunnels'][0]['public_url'])"
+```
+
+Then open `<ngrok-url>/matthieu.html` on one device and `<ngrok-url>/nils.html` on the other.
+
+## Running Locally (without ngrok)
 
 ```bash
 # Install dependencies (first time only)
@@ -36,7 +51,6 @@ The server starts on **port 3000** by default. Override with `PORT=8080 npm run 
 To let someone on another network connect (e.g. showing the demo to Matthieu), you need a public URL. ngrok tunnels localhost to a public HTTPS endpoint.
 
 ```bash
-# In a separate terminal
 ngrok http 3000
 ```
 
@@ -45,7 +59,7 @@ ngrok will print a forwarding URL like `https://xxxx-xx-xx.ngrok-free.app`. Shar
 You can check your active tunnel URL anytime:
 
 ```bash
-curl -s http://localhost:4040/api/tunnels | python3 -m json.tool
+curl -s http://localhost:4040/api/tunnels | python3 -c "import sys,json; print(json.load(sys.stdin)['tunnels'][0]['public_url'])"
 ```
 
 ## Smoke Test
