@@ -1,4 +1,14 @@
 **Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 50
+**Prompt**: Called out that changelog wasn't updated for redgreencalendar formatting changes. Super disappointing.
+**Relevance**: 0.7
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 49
+**Prompt**: Screenshot of redgreencalendar rendering on GitHub — streak stats collapse into one line, looks bad. Improve it.
+**Relevance**: 0.5
+
+**Timestamp**: Apr 3 HKT, 2026
 **PromptID**: 48
 **Prompt**: Discussion about green day criteria, fitness philosophy, and pushing to 200 pushups. Completed 200 pushups + 10 min stretching. Logged first green day. Updated pushup goal to 200/day.
 **Relevance**: 0.3

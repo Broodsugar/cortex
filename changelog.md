@@ -1,4 +1,9 @@
 **Timestamp**: Apr 3 HKT, 2026
+**Change**: Reformatted redgreencalendar.md — added heading, moved streak stats into a table, spaced out emoji squares, added section headings for 30-day view and log. Fixes rendering issues on GitHub where stats collapsed into one line.
+**Justification**: Nils flagged poor GitHub rendering via screenshot.
+**PromptID**: 49
+
+**Timestamp**: Apr 3 HKT, 2026
 **Change**: Logged first green day (Apr 3) in redgreencalendar.md. Updated pushup goal from 100 to 200/day at 100%. Streak: 1 green day.
 **Justification**: Nils completed 200 pushups (4x50), 10 min stretching, and ate at roughly maintenance. First green day after 3 red.
 **PromptID**: 48
