@@ -1,3 +1,53 @@
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 48
+**Prompt**: Discussion about green day criteria, fitness philosophy, and pushing to 200 pushups. Completed 200 pushups + 10 min stretching. Logged first green day. Updated pushup goal to 200/day.
+**Relevance**: 0.3
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 47
+**Prompt**: Add to my goals that I want to create an exocortex structure for my book on memetics.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 46
+**Prompt**: Latest promptid in promptlog is 45, latest in changelog is 44. (Pointed out sync gap.)
+**Relevance**: 0.7
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 45
+**Prompt**: Nils called out that changelog wasn't updated for pushups and wife goal. Asked me to examine why I deviated.
+**Relevance**: 0.7
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 44
+**Prompt**: Log that I had a long conversation with my wife.
+**Relevance**: 0.2
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 43
+**Prompt**: I'm doing 50 pushups right now.
+**Relevance**: 0.1
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 42
+**Prompt**: When did I last do pushups?
+**Relevance**: 0.1
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 41
+**Prompt**: Push (exocortex repo with setup script and README changes).
+**Relevance**: 1.0
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 40
+**Prompt**: Let's symlink to exocortex. Yes, symlink.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 3 HKT, 2026
+**PromptID**: 39
+**Prompt**: I've created and populated /exocortex on GitHub. Let's set up a CLI/script to help people set up their own exocortex.
+**Relevance**: 1.0
+
 **Timestamp**: Apr 3, 00:25 HKT, 2026
 **PromptID**: 28
 **Prompt**: The log looks bad, no line breaks. Let's make it render more pleasantly on GitHub. (Chose table format.)

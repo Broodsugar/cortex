@@ -1,10 +1,11 @@
-Current streak: 3 red days
-Longest green streak: 0 days
+Current streak: 1 green day
+Longest green streak: 1 day
 
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟥🟥🟥
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟥🟥🟥🟩
 
 | Date | Status |
 |------|--------|
+| Apr 3, 2026 | 🟩 green day |
 | Apr 2, 2026 | 🟥 red day |
 | Apr 1, 2026 | 🟥 red day |
 | Mar 31, 2026 | 🟥 red day |

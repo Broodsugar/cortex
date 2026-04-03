@@ -4,11 +4,14 @@
 
 Things that reset every day. Progress is today's progress.
 
-| Goal | Progress | Last updated |
-|------|----------|--------------|
-| Spend time with kids every day | 10% | Apr 2 |
-| Do 100 pushups per day | 100% | Apr 3 |
-| Maintain a caloric deficit every day | 0% | Apr 2 |
+
+| Goal                                 | Progress | Last updated |
+| ------------------------------------ | -------- | ------------ |
+| Spend time with kids every day       | 10%      | Apr 3        |
+| Spend time with wife every day       | 100%     | Apr 3        |
+| Do 200 pushups per day               | 100%     | Apr 3        |
+| Maintain a caloric deficit every day | 0%       | Apr 3        |
+
 
 *Caloric deficit scale: 0% = no deficit (2400+ cal), 50% = 1200 cal, 100% = full 24h fast.*
 
@@ -16,7 +19,12 @@ Things that reset every day. Progress is today's progress.
 
 Things that accumulate over time.
 
-| Goal | Progress | Last updated |
-|------|----------|--------------|
-| Create a comprehensive exocortex | 2% | Apr 3 |
-| Make a version of the Exocortex that can text me on WhatsApp or Telegram | 1% | Apr 2 |
+
+| Goal                                                                     | Progress | Last updated |
+| ------------------------------------------------------------------------ | -------- | ------------ |
+| Create a comprehensive exocortex                                         | 2%       | Apr 3        |
+| Make a version of the Exocortex that can text me on WhatsApp or Telegram | 1%       | Apr 2        |
+| Build the real world web to make the physical world accessible to AI     | 1%       | Apr 2        |
+| Create an exocortex structure for my book on memetics                     | 0%       | Apr 3        |
+
+

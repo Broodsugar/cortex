@@ -1,3 +1,2 @@
-I want to create a roadmap for what Matthieu and I should produce by Sunday.
+Support Matthieu in "figure out if discovery is a capability. study libp2p."
 
-The goal is to collaborative iterate super quickly, with several demo milestones per day, on the Auki SDK.

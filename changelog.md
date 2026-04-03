@@ -1,3 +1,38 @@
+**Timestamp**: Apr 3 HKT, 2026
+**Change**: Logged first green day (Apr 3) in redgreencalendar.md. Updated pushup goal from 100 to 200/day at 100%. Streak: 1 green day.
+**Justification**: Nils completed 200 pushups (4x50), 10 min stretching, and ate at roughly maintenance. First green day after 3 red.
+**PromptID**: 48
+
+**Timestamp**: Apr 3 HKT, 2026
+**Change**: Added "Create an exocortex structure for my book on memetics" as a new long-term goal in goals.md at 0%.
+**Justification**: Nils is writing a book on memetics and wants a structured exocortex to support it.
+**PromptID**: 47
+
+**Timestamp**: Apr 3 HKT, 2026
+**Change**: Backfilled promptlog (PromptIDs 39–45) and changelog (PromptIDs 40, 41, 43, 44) for this session. Had missed logging changes as they happened.
+**Justification**: Nils caught that I was making changes without updating the changelog. Correcting the gap and committing to follow the process going forward.
+**PromptID**: 45
+
+**Timestamp**: Apr 3 HKT, 2026
+**Change**: Added "Spend time with wife every day" as a new daily habit in goals.md at 100%. Nils reported having a long conversation with his wife.
+**Justification**: Nils wanted to track this as an ongoing daily goal.
+**PromptID**: 44
+
+**Timestamp**: Apr 3 HKT, 2026
+**Change**: Updated "Do 100 pushups per day" progress to 100% in goals.md. Nils did his second set of 50.
+**Justification**: Tracking progress towards daily goal.
+**PromptID**: 43
+
+**Timestamp**: Apr 3 HKT, 2026
+**Change**: Created setup.sh in the exocortex repo — an interactive script that walks users through naming their exocortex, defining values, green day criteria, goals, and first attention focus. Updated README.md getting started section to: clone, run setup.sh, enjoy. Pushed to Broodsugar/exocortex.
+**Justification**: Nils wants the onboarding flow to be: clone, run one command, answer questions, done.
+**PromptID**: 41
+
+**Timestamp**: Apr 3 HKT, 2026
+**Change**: Created symlink /Users/nilspihl/cortex/exocortex -> /Users/nilspihl/exocortex.
+**Justification**: Makes the exocortex repo accessible from within the cortex working directory.
+**PromptID**: 40
+
 **Timestamp**: Apr 3, 00:50 HKT, 2026
 **Change**: Added relay fallback to signaling server — when WebRTC fails (symmetric NAT, no TURN), messages pass through Socket.io instead. Created smoke test pages (matthieu.html, nils.html). Successfully tested Nils (HK) ↔ Matthieu (Thailand) messaging via ngrok + relay. Also added relay_message event to server types and handler.
 **Justification**: WebRTC peer-to-peer failed between HK and Thailand due to NAT restrictions. Relay mode unblocks testing while TURN is deferred.

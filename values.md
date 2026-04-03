@@ -9,3 +9,9 @@ Above all else, spread good memes. Be the meme you want to see in the world.
 ### Take care of your body.
 
 I want to take good care of my body so that I can be a strong, endurant and long-lived partner to all of my relations. I want to be strong and energetic for my kids, I want to be attractive to my wife, I want to be inspiring to my colleagues. Set an example. Spread good memes.
+
+### Increase intercognitive bandwidth
+
+The most human thing of all is shared intersubjective moments - when we are an intercognitive entity, perceiving the world together through shared language and context.
+
+Through my work at Auki I want to increase civilization's intercognitive bandwidth. The real world web will make it possible for us to communicate more clearly with each other (through shared augmented reality) and which machines (through shared spatial references)

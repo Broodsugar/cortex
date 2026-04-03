@@ -28,4 +28,4 @@ The Reward Pool is a reserve of $AUKI tokens that backs all outstanding credits.
 
 ### Cluster Registry
 
-subfolder in the SDK
+The Cluster Registry is the shared source of truth for who is in a domain cluster and what they can do. Every node in the cluster holds a full read-only replica; only the Manager Node writes to it. Each entry contains the node's network address, public key, capabilities, and data products. When a node joins, leaves, or updates its capabilities at runtime, the Manager Node updates the registry and broadcasts the change to all members immediately. The Cluster Registry is what allows any node in a cluster to find the right peer for a given task — if you need Reconstruction, you look up who advertises it; if you need a point cloud, you look up who serves one.
