@@ -1,4 +1,9 @@
 **Timestamp**: Apr 3 HKT, 2026
+**Change**: Created diary.md with first entry (Friday, April 3). Added diary rules to contributing.md: append-only, latest on top, plural first person, only written when Nils asks.
+**Justification**: Nils wants a human-readable record of what we accomplish together, written on demand.
+**PromptID**: 53
+
+**Timestamp**: Apr 3 HKT, 2026
 **Change**: Reformatted redgreencalendar.md — added heading, moved streak stats into a table, spaced out emoji squares, added section headings for 30-day view and log. Fixes rendering issues on GitHub where stats collapsed into one line.
 **Justification**: Nils flagged poor GitHub rendering via screenshot.
 **PromptID**: 49

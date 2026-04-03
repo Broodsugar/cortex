@@ -47,6 +47,12 @@ The file also contains:
 
 If Claude notices a day has been skipped, call it out.
 
+## Diary
+
+Append-only, latest entry on top. Written in plural first person ("we").
+
+The diary is **not automated**. It is only written when Nils asks for it. When prompted, write a prose summary of what we accomplished that day and prepend it to diary.md under the `# Diary` heading.
+
 ## Claude.md
 
 Instructions for how Claude should collaborate with Nils. See the file for details.
