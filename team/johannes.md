@@ -1,18 +1,30 @@
-I am the Head of Business Development at Auki Labs.
+Despite software having eaten the world, 70% of the world's economy is still tied to physical locations and physical labor. AI has transformed how we search, write, code, and communicate — but it still can't see the room you're standing in. It doesn't know where your shelves are, what's on them, or how to get from aisle 3 to the loading dock.
 
-Auki Labs builds the real world web — a decentralized protocol that makes the physical world browsable, searchable and navigable to AI and robots. We also build Cactus, an AI copilot for the retail industry.
+The physical world is invisible to AI. And until that changes, the biggest opportunity for technology to be transformative remains untouched.
 
-Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience and solve problems together with each other and AI.
+At Auki Labs, we're building the real world web — a decentralized protocol that makes physical space browsable, searchable, and navigable to AI, robots, and humans. Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience, and solve problems together.
 
-As Head of BD, I have responsibilities and routines. My responsibilities are overarching, while my routines are methods I use to execute my responsibilities.
+We believe most robotics companies are making a strategic error — trying to perfect manipulation and locomotion before they deploy. We start with perception instead: high value, low cost, low risk. Phones first, then glasses, then robots. Each phase pre-deploys the environment for the next, and customers deploy it themselves.
+
+But the technology doesn't sell itself. Millions of retailers manage complex physical environments with almost no help from AI. Tens of millions of people work retail floors — and their employers don't yet know that the solution to their biggest pain isn't a robot that restocks shelves, but one that sees what needs to be done.
+
+Someone has to find these people, make them feel the problem, and show them the future. That's the problem you must face.
+
+---
+
+## The Role: Head of Business Development
+
+I find and close the customers who will deploy the real world web into the physical world. Every location I bring online is territory captured — a phone, then glasses, then a robot, generating revenue and data while pre-deploying the environment for what comes next.
+
+I don't just sell product — I sell the worldview that makes the product inevitable.
 
 ## Responsibilities
 
 **Pipeline development**
 
-I am responsible for building and maintaining a pipeline of qualified prospects for Auki's products. This means identifying retailers, agriculture companies, and other operators of physical environments who have perception problems worth solving — and getting them into conversation with us.
+I am responsible for building and maintaining a pipeline of qualified prospects — retailers, agriculture companies, and other operators of physical environments who have perception problems worth solving.
 
-I must understand the prospect's pain before I pitch. Every outreach should follow NASA structure: establish the need, get acceptance, propose the solution, get acceptance. If my response rate is low, the message is wrong before the audience is.
+I must understand the prospect's pain before I pitch. Every outreach follows NASA structure: establish the need, get acceptance, propose the solution, get acceptance. If my response rate is low, the message is wrong before the audience is.
 
 **Revenue generation**
 

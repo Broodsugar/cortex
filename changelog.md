@@ -4,6 +4,11 @@
 **PromptID**: 100
 
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Restructured all five team role files (johannes, jay, arshak, matthieu, robin) with Why-How-What + NASA opening. Each file now opens with shared mission paragraph (70% of economy is physical, AI can't see it), narrows to the role-specific problem, ends with "This is the problem you must face," then drops into responsibilities below a divider. All existing content preserved — just reframed.
+**Justification**: Role files should inspire before they describe. Someone reading this before applying to Auki should want the job. The old format was functional but flat — it read like HR paperwork, not a call to action.
+**PromptID**: 104
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Created team/robin.md — Spatial Intelligence Lead. Owns the first two protocol questions: "Where is this?" (spatial reasoning, coordinate systems, transforms) and "When was this?" (temporal reasoning, clock sync). Also owns CV/perception pipeline. Added Spatial Intelligence alignment to team/matthieu.md. Updated role.md with Robin as fifth leader. All four protocol questions now have an owner.
 **Justification**: Matthieu was narrowed to networking + tokenomics, leaving spatial unassigned. Robin fills that gap. The two functions together cover the full protocol.
 **PromptID**: 103

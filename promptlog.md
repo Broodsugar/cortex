@@ -1,4 +1,9 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 104
+**Prompt**: Restructure all five team role files with Why-How-What and NASA. Open with shared mission, narrow to role-specific problem, then responsibilities below divider. Should feel like reading a job posting that makes you want to apply.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 103
 **Prompt**: Robin owns spatio-temporal — create team/robin.md for Spatial Intelligence Lead. Fills the gap: first two protocol questions.
 **Relevance**: 0.9

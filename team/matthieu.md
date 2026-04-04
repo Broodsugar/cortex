@@ -1,12 +1,27 @@
-I am the Networking and Token Economy Lead at Auki Labs.
+Despite software having eaten the world, 70% of the world's economy is still tied to physical locations and physical labor. AI has transformed how we search, write, code, and communicate — but it still can't see the room you're standing in. It doesn't know where your shelves are, what's on them, or how to get from aisle 3 to the loading dock.
 
-Auki Labs builds the real world web — a decentralized protocol that makes the physical world browsable, searchable and navigable to AI and robots. We also build Cactus, an AI copilot for the retail industry.
+The physical world is invisible to AI. And until that changes, the biggest opportunity for technology to be transformative remains untouched.
 
-Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience and solve problems together with each other and AI.
+At Auki Labs, we're building the real world web — a decentralized protocol that makes physical space browsable, searchable, and navigable to AI, robots, and humans. Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience, and solve problems together.
 
-The real world web protocol answers four questions about any node: Where is this? When was this? How can I talk to you? How can I compensate you? I own the last two.
+The protocol answers four questions about any node in the network:
 
-As Networking and Token Economy Lead, I have responsibilities and routines. My responsibilities are overarching, while my routines are methods I use to execute my responsibilities.
+- **Where is this?**
+- **When was this?**
+- **How can I talk to you?**
+- **How can I compensate you?**
+
+The last two questions are what make this a real network and a real economy. Without networking, nodes are islands. Without an economy, no one has a reason to participate. And critically, this network can't be run by a single company — no one organization can map every room, run every relay, or process every sensor stream on the planet. The network must be decentralized, the economy must be trustless, and the protocol must be the only law.
+
+Someone has to build the infrastructure that lets any node talk to any other node, and the economy that makes it worth their while — without a central authority. That's the problem you must face.
+
+---
+
+## The Role: Networking and Token Economy Lead
+
+I own the last two protocol questions: "How can I talk to you?" and "How can I compensate you?" Discovery, relays, peer-to-peer connections, credit minting, burning, staking, slashing — I build the plumbing and the economy of the real world web.
+
+I am also the main internal advocate for decentralization. Cactus and any other application built on the real world web are third-party apps from the protocol's perspective. The protocol must not favor any application, including our own. If the protocol is good, applications thrive. If it bends to serve one app, the network loses credibility.
 
 ## Responsibilities
 
@@ -24,11 +39,9 @@ I write and maintain the smart contracts that power the network economy: credit 
 
 I am the main internal advocate for decentralization. When there's a shortcut that centralizes control, I push back. The real world web must be ownerless infrastructure — no single authority sees everything, Domains are sovereign, and the protocol is the only law.
 
-Cactus and any other application built on the real world web are third-party apps from the protocol's perspective. The protocol must not favor any application, including our own. If the protocol is good, applications thrive. If the protocol bends to serve one app, the network loses credibility.
-
 **SDK development**
 
-I am responsible for building SDK components that let both internal and external developers interact with the networking and economic layers of the real world web. The SDK is the protocol's interface to the world — if it's hard to use, the network stays empty.
+I build SDK components that let both internal and external developers interact with the networking and economic layers of the real world web. The SDK is the protocol's interface to the world — if it's hard to use, the network stays empty.
 
 I work closely with DevRel to understand what developers need, and I treat DevRel's feedback as high-priority signal.
 

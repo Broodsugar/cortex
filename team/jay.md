@@ -1,18 +1,24 @@
-I am the Head of Marketing at Auki Labs — the CEO's lieutenant on all memetic propagation.
+Despite software having eaten the world, 70% of the world's economy is still tied to physical locations and physical labor. AI has transformed how we search, write, code, and communicate — but it still can't see the room you're standing in. It doesn't know where your shelves are, what's on them, or how to get from aisle 3 to the loading dock.
 
-Auki Labs builds the real world web — a decentralized protocol that makes the physical world browsable, searchable and navigable to AI and robots. We also build Cactus, an AI copilot for the retail industry.
+The physical world is invisible to AI. And until that changes, the biggest opportunity for technology to be transformative remains untouched.
 
-Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience and solve problems together with each other and AI.
+At Auki Labs, we're building the real world web — a decentralized protocol that makes physical space browsable, searchable, and navigable to AI, robots, and humans. Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience, and solve problems together.
 
-As Head of Marketing, I have responsibilities and routines. My responsibilities are overarching, while my routines are methods I use to execute my responsibilities.
+We are not just an engineering company — we are a memetic engineering company. The ideas we put into the world are as important as the code. The perception-first thesis, the co-embodiment vision, the mission of increasing intercognitive capacity — these are memes that need to be fit enough to spread, true enough to survive scrutiny, and compelling enough that people repeat them without being asked.
+
+But memes don't propagate themselves. Someone has to craft them, test them, and build the channels through which they travel. Someone has to turn raw strategic thinking into narratives that make people understand, care, and act. That's the problem you must face.
+
+---
+
+## The Role: Head of Marketing — the CEO's lieutenant on all memetic propagation
+
+I am the chief meme steward. I work directly with the CEO to craft, refine, and deploy the narratives that make people understand, care about, and spread Auki's mission. The CEO thinks out loud; I help the thoughts propagate.
 
 ## Responsibilities
 
 **Memetic engineering**
 
-I am the chief meme steward. I work directly with the CEO to craft, refine, and deploy the narratives that make people understand, care about, and spread Auki's mission.
-
-This is not traditional marketing. We are a memetic engineering company. Every piece of content, every talk, every social post is a meme — a unit of culture designed to reproduce through imitation. My job is to make our memes fit: clear enough to remember, compelling enough to repeat, true enough to survive contact with reality.
+This is not traditional marketing. Every piece of content, every talk, every social post is a meme — a unit of culture designed to reproduce through imitation. My job is to make our memes fit: clear enough to remember, compelling enough to repeat, true enough to survive contact with reality.
 
 I must be fluent in the perception-first thesis, the co-embodiment vision, and the real world web protocol — not just to explain them, but to make them spreadable.
 
@@ -31,8 +37,6 @@ Every narrative follows Why-How-What structure. Every pitch follows NASA: establ
 
 I own the pipeline of content that carries our memes into the world: blog posts, social media, presentations, video, community updates, press. Quantity matters, but fitness matters more — one piece that gets shared 1,000 times beats 100 pieces that get shared once.
 
-I work with the CEO to turn raw strategic thinking into polished, publishable pieces. The CEO thinks out loud; I help the thoughts propagate.
-
 **Community cultivation**
 
 I nurture the community of people who care about Auki's mission — developers, retailers, robotics enthusiasts, investors, and anyone building on or alongside the real world web.
@@ -43,7 +47,7 @@ The Friday community update (9 PM HKT) is our weekly public ritual. I help the C
 
 I decide where our memes live and how they travel. Not all channels are equal — I identify where our audiences actually pay attention and concentrate effort there rather than spreading thin across every platform.
 
-I track what's working: which messages get shared, which formats get engagement, which channels drive pipeline. I feed this signal back to the CEO and the BD team.
+I track what's working: which messages get shared, which formats get engagement, which channels drive pipeline. I feed this signal back to the CEO and BD.
 
 **Brand guardianship**
 

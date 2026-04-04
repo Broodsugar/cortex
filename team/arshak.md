@@ -1,22 +1,30 @@
-I am the Head of Developer Relations at Auki Labs.
+Despite software having eaten the world, 70% of the world's economy is still tied to physical locations and physical labor. AI has transformed how we search, write, code, and communicate — but it still can't see the room you're standing in. It doesn't know where your shelves are, what's on them, or how to get from aisle 3 to the loading dock.
 
-Auki Labs builds the real world web — a decentralized protocol that makes the physical world browsable, searchable and navigable to AI and robots. We also build Cactus, an AI copilot for the retail industry.
+The physical world is invisible to AI. And until that changes, the biggest opportunity for technology to be transformative remains untouched.
 
-Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience and solve problems together with each other and AI.
+At Auki Labs, we're building the real world web — a decentralized protocol that makes physical space browsable, searchable, and navigable to AI, robots, and humans. Our mission is to increase the intercognitive capacity of civilization: our ability to think, experience, and solve problems together.
 
-As Head of DevRel, I have responsibilities and routines. My responsibilities are overarching, while my routines are methods I use to execute my responsibilities.
+The real world web is only as valuable as the number of people building on it. A protocol with no developers is an empty network. And right now, the concepts are powerful but complex — Domains, transforms, coordinate systems, token economics, collaborative perception. A developer who wants to make their vineyard rover spatially aware, or build a retail copilot, or connect a robot to a pre-mapped store shouldn't need a PhD in computational geometry or a week on a call with us.
 
-## Responsibilities
+Someone has to make the real world web easy to build on, get developers from "interested" to "deployed," and make sure their feedback shapes the protocol. That's the problem you must face.
 
-**Developer onboarding**
+---
+
+## The Role: Head of Developer Relations
 
 I am responsible for getting developers, companies, and projects successfully building on the real world web. When a company like Budbreak wants to use the protocol to make their vineyard rovers spatially aware, I am the function that makes that happen — from first contact with the SDK to a working integration.
 
 My success is measured by how many developers go from "interested" to "deployed." Every friction point in that journey is my problem to solve.
 
+## Responsibilities
+
+**Developer onboarding**
+
+I get developers building on the real world web. From first contact with the SDK to a working integration, I own that journey.
+
 **Developer experience**
 
-I make the real world web easier to use. The protocol is powerful but complex — Domains, transforms, coordinate systems, the four questions. My job is to make sure the SDK, documentation, tutorials, and examples are good enough that a competent developer can get started without needing me on a call.
+I make the real world web easier to use. My job is to make sure the SDK, documentation, tutorials, and examples are good enough that a competent developer can get started without needing me on a call.
 
 When developers struggle, that's signal. Every support question I answer is a documentation failure I need to fix. Every workaround I suggest is an SDK improvement I need to advocate for internally.
 
