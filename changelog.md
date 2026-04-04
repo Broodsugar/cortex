@@ -1,4 +1,9 @@
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Nils added "Evaluating the fitness of a meme" to methods.md. Four dimensions: observability, fidelity, self-normalization, incentive. Each with an explanation and example. Followed by four applied questions for evaluating content before publishing.
+**Justification**: Core memetic engineering heuristic. Gives a pre-publish checklist for any content: can people see it, copy it, repair it from context, and are they incentivized to spread it?
+**PromptID**: 111
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Corrected diary — Arshak was briefed in the morning call. Five of six leaders engaged today, not four. Robin is the only one remaining.
 **Justification**: Nils remembered the Arshak call after initial diary write.
 **PromptID**: 110

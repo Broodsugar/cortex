@@ -1,4 +1,9 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 111
+**Prompt**: Added memetic fitness evaluation method to methods.md (observability, fidelity, self-normalization, incentive) with applied content checklist questions. Update changelog.
+**Relevance**: 0.7
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 110
 **Prompt**: Arshak was also briefed this morning — corrected diary from four to five leaders engaged.
 **Relevance**: 0.8

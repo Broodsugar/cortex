@@ -113,3 +113,13 @@ How fit a meme is can be analysed across a few "dimensions":
   The third is the ability to **self-normalise** or self-repair. This is a key difference between Memes and genes. Memes have the ability to repair themselves if you have sufficient scaffolding in the RAM of the receiver, so to speak. A slurred or poorly pronounced word is easier to understand if you know the context of the sentence.
   
    The fourth is **incentive**. Is there any part of this memetic package that would make it rewarding for the host to propagate it? If propagating the meme increases my social status, for example, that’s a built-in incentive. "Saying this makes me cool."
+   
+If we write a piece of content:
+
+Where will we make this observable?
+
+How easy are we making it for the reader to repeat the core message of this piece of media?
+
+Is this piece of media sufficiently scaffolded with context that the reader will understand what we mean and fill in the gaps?
+
+Does interacting with this meme somehow incentivize me to spread it?
