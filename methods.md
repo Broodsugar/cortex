@@ -96,3 +96,20 @@ Situational. Only use this method if we are writing an investor update.
 **Team**
 
 - Did we make any exciting staffing changes?
+
+## Evaluating the fitness of a meme
+
+How fit a meme is can be analysed across a few "dimensions":
+
+- Observability
+- Fidelity
+- Self-normalization
+- Incentive
+
+ The first is it’s **observability**: how do I actually come to observe the meme? Example: The behaviour of waving to greet someone is a good meme because it is very observable, whereas the meme of curling your toes in your shoes to greet someone would be a bad meme, cause it’s hard to observe.
+ 
+  The second is **fidelity** or how easy it is to copy the meme or behaviour without it mutating. A simple handshake is easier to copy than a complicated series of fist bumps. 
+  
+  The third is the ability to **self-normalise** or self-repair. This is a key difference between Memes and genes. Memes have the ability to repair themselves if you have sufficient scaffolding in the RAM of the receiver, so to speak. A slurred or poorly pronounced word is easier to understand if you know the context of the sentence.
+  
+   The fourth is **incentive**. Is there any part of this memetic package that would make it rewarding for the host to propagate it? If propagating the meme increases my social status, for example, that’s a built-in incentive. "Saying this makes me cool."

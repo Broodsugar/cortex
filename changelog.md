@@ -1,4 +1,19 @@
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Corrected diary — Arshak was briefed in the morning call. Five of six leaders engaged today, not four. Robin is the only one remaining.
+**Justification**: Nils remembered the Arshak call after initial diary write.
+**PromptID**: 110
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Rewrote Saturday diary entry from scratch using changelog and promptlog as source. Covers full day: morning infrastructure, afternoon team onboarding (Johannes call, Jay call, Matthieu colocated, Phil demo), strategy article, investor update method, LEIA refinement. Ends with responsibility and routine audit against role.md.
+**Justification**: Nils cleared previous draft and asked for a rewrite grounded in the logs. Corrected that four leaders were onboarded, not two.
+**PromptID**: 109
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated pushups goal to 75% (150/200) for Apr 4.
+**Justification**: Nils reported third set of 50 pushups.
+**PromptID**: 107
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Updated goals.md — leader alignment routine logged (Johannes, Phil today), exocortex project updated (6 role files, Phil demoed), memetic propagation and information structuring focus areas refreshed, added investor relations to responsibilities table.
 **Justification**: Reflecting today's progress. Phil demoed but hasn't forked yet.
 **PromptID**: 106

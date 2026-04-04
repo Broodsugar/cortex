@@ -1,4 +1,24 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 110
+**Prompt**: Arshak was also briefed this morning — corrected diary from four to five leaders engaged.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 109
+**Prompt**: Rewrite diary from scratch using changelog and promptlog. Corrected: Jay was onboarded via call, Matthieu is colocated for the sprint. Summarize against role responsibilities and routines.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 108
+**Prompt**: Update diary for today's afternoon session.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 107
+**Prompt**: 50 more pushups (150/200). Don't want to work on credit service — too big for current energy.
+**Relevance**: 0.1
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 106
 **Prompt**: Done onboarding Phil (demoed, hasn't forked yet). Update goals.md with today's progress. Matthieu wants credit service review next.
 **Relevance**: 1.0
