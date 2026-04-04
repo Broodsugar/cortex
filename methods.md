@@ -1,6 +1,6 @@
 Methods and heuristics I use to do my job well:
 
-###NASA###
+## NASA
 
 A persuasion technique that teaches you that people sell to themselves. You have to equip them with the necessary information to get to the conclusion on their own. A key idea is that you should never take for granted that context is already "in their RAM": just because someone knows something in their long term memory doesn't mean it is currently in their attention.
 
@@ -20,7 +20,7 @@ The listeners need was getting home earlier. The solution would be a tool that s
 
 This is also a good way to structure any blog post or any media really: make sure you structure the information so that the reader always has the necessary scaffolding in RAM. Don't assume!
 
-###LEIA
+## LEIA
 
 Whenever you evaluate a UI design, especially collaboratively, it can be hard to reason about if you've made improvements or not. I designed this heuristic to help:
 
@@ -35,9 +35,9 @@ Any change you make to a UI will affect it in at least one of four dimensions:
 **Aesthetic:** How aesthetically appealing is the design?
 
 
-Whenever you make any change to design, you created delta on at least one of these. This can help you reason about if the change was good or not - because your design could have different LEIA goals.
+Whenever you make any change to design, you created delta on at least one of these. This can help you reason about if the change was good or not — but evaluate whether your LEIA score is optimizing for what you actually need. Not all four dimensions matter equally in every context.
 
-###Why, How, What
+### Why, How, What
 
 To make a story compelling, full a why, how, what structure:
 
@@ -60,3 +60,39 @@ Notice the similarities to the Need, Acceptance, Solution, Acceptance structure.
 
 Need: Why - we love music and wish we could listen to it all the time
 Solution: How - imagine if we could put 1000 songs in our pocket and listen as we move around the world
+
+
+## Investor updates
+
+Situational. Only use this method if we are writing an investor update.
+
+**Hook and ask (this is the only part most investors will read)**
+
+- What's the single most exciting thing that happened? One sentence, punchy, shareable.
+- What's the call to action? Pick one: share this piece of media, introduce us to someone specific, or ask around for something we need. Make it concrete and easy to do right now.
+
+**The retell test**
+
+- If an investor had 30 seconds to tell a friend about Auki at dinner, what would I want them to say? Write that sentence. That's the hook above.
+
+---
+
+*Everything below is for investors who keep scrolling.*
+
+**Mission and momentum**
+
+- A reminder of our mission and strategy, and an update on momentum.
+
+**Traction**
+
+- Consider sharing live locations or revenue if there is exciting news there.
+- What did a customer or partner say this month that I wish every investor could hear?
+
+**Strategy validation**
+
+- What did we learn that confirms or challenges the perception-first thesis?  
+
+
+**Team**
+
+- Did we make any exciting staffing changes?

@@ -9,7 +9,7 @@ Things that reset every day. Progress is today's progress.
 | ------------------------------------ | -------- | ------------ |
 | Spend time with kids every day       | 0%       | Apr 4        |
 | Spend time with wife every day       | 0%       | Apr 4        |
-| Do 200 pushups per day               | 25%      | Apr 4        |
+| Do 200 pushups per day               | 50%      | Apr 4        |
 | Maintain a caloric deficit every day | 0%       | Apr 4        |
 
 
@@ -22,7 +22,7 @@ Things I do on a recurring schedule as part of my role.
 
 | Routine                               | Cadence      | Last done |
 | ------------------------------------- | ------------ | --------- |
-| Align with each project leader        | Weekly       | —         |
+| Align with each project leader        | daily        | —         |
 | Review and update my exocortex        | Daily        | Apr 4     |
 | Fika — inspire and align the team     | Mon 3 PM HKT | —         |
 | Community update — build in public    | Fri 9 PM HKT | —         |
@@ -52,7 +52,7 @@ Concrete things with an end state.
 
 | Project                                               | Status      | Last updated |
 | ----------------------------------------------------- | ----------- | ------------ |
-| Ship exocortex for colleagues — onboard someone today | In progress | Apr 4        |
+| Ship exocortex for colleagues — onboard someone today | In progress — Johannes onboarding, role files created for BD/Marketing/DevRel | Apr 4        |
 | Build the real world web                              | Ongoing     | Apr 2        |
 | Exocortex on WhatsApp/Telegram                        | Not started | Apr 2        |
 | Memetics book exocortex structure                     | Not started | Apr 3        |

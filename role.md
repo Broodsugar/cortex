@@ -80,9 +80,9 @@ We understand that the more righteous and appealing our mission is, the easier i
 Sync with every project leader regularly. Align their intent to keep them mission focused. Motivate them to keep them productive. Help them build and maintain their exocortex. Get our exocortices aligned on a weekly basis.
 
 Current leaders:
-- **BD** (Johannes) — pipeline, revenue, market intelligence. Feeds signal from prospects and competitors to the CEO. See johannes.md.
-- **Marketing** (Jay) — memetic propagation, narrative architecture, content. The CEO's lieutenant on all external and internal narrative. See jay.md.
-- **DevRel** (Arshak) — developer onboarding, SDK/DX, developer feedback loop. Makes builders successful on the real world web. See arshak.md.
+- **BD** (Johannes) — pipeline, revenue, market intelligence. Feeds signal from prospects and competitors to the CEO. See team/johannes.md.
+- **Marketing** (Jay) — memetic propagation, narrative architecture, content. The CEO's lieutenant on all external and internal narrative. See team/jay.md.
+- **DevRel** (Arshak) — developer onboarding, SDK/DX, developer feedback loop. Makes builders successful on the real world web. See team/arshak.md.
 
 These three form the go-to-market triad: BD opens doors, Marketing crafts narratives, DevRel makes builders successful. They cross-reference each other by function in their role files.
 

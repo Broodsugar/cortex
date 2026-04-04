@@ -1,4 +1,39 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 99
+**Prompt**: Update role.md references to point to team/ directory. Team structure TBD — a repo of role files is a reasonable starting point.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 98
+**Prompt**: Updated goals.md (daily leader alignment cadence, team/ folder reorg). Update exocortex shipping progress.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 97
+**Prompt**: 50 more pushups (100/200 total). Updated goals.md. Called out for missing changelog.
+**Relevance**: 0.1
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 96
+**Prompt**: Discussion on LEIA weighting — not all dimensions matter equally. Agreed to add one line to methods.md: evaluate if your LEIA score is optimizing for what you need.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 95
+**Prompt**: LEIA analysis of Claude's investor update schema vs Nils's version, from the investor's POV. Nils's version wins on intuition, ergonomic, aesthetic. Claude's wins on logic but that's the least valuable dimension here.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 94
+**Prompt**: Feedback on investorupdate.md: investors have short attention spans. Open with hook and CTA (share media, make intro, ask around). Restructured template.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 93
+**Prompt**: Generate template questions for investor updates. Pull latest from auki-sdk.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 92
 **Prompt**: Add investor relations responsibility and investor updates routine to role.md.
 **Relevance**: 1.0

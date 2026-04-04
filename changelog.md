@@ -1,4 +1,34 @@
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated role.md leader references to point to team/ directory (team/johannes.md, team/jay.md, team/arshak.md).
+**Justification**: Nils moved role files into team/ folder. References need to match.
+**PromptID**: 99
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated "Ship exocortex for colleagues" project status with progress note: Johannes onboarding, role files created for BD/Marketing/DevRel.
+**Justification**: Real progress made today — first colleague onboarding in progress, three role files shipped.
+**PromptID**: 98
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated pushups goal to 50% (100/200) for Apr 4.
+**Justification**: Nils reported second set of 50 pushups.
+**PromptID**: 97
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Added contextual weighting reminder to LEIA in methods.md: "evaluate whether your LEIA score is optimizing for what you actually need. Not all four dimensions matter equally in every context."
+**Justification**: Emerged from LEIA analysis of investor update templates — Logic was the highest-scoring dimension for the more structured version, but the least valuable for the actual use case. LEIA needed a nudge to prevent over-optimizing the wrong dimension.
+**PromptID**: 96
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Restructured investorupdate.md template. Hook and CTA now come first — the only part most investors read. Retell test second. Detail sections (momentum, traction, strategy, team) below a divider for those who keep scrolling. Removed the buried ask section.
+**Justification**: Nils's feedback: investors have incredibly short attention spans. The ask was at the bottom where no one reads it. Now the template opens with the punch and the action.
+**PromptID**: 94
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Created investorupdate.md — template for investor updates with questions organized by section (momentum, traction, strategy, team, ask, retell test). Pulled latest from auki-sdk (134 files changed — major restructure by Matt: code replaced with specs/todos, new whitepaper, Concepts docs, naming cleanup).
+**Justification**: Investor updates are a new CEO routine. Template ensures each update is structured for memetic propagation, not just reporting.
+**PromptID**: 93
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Added "Investor relations" responsibility and "Investor updates" routine to role.md. Investors as memetic propagation nodes — updates should be shareable stories, not status reports.
 **Justification**: Missing from the CEO role file. Investor relations is a resource acquisition and memetic propagation function.
 **PromptID**: 92
