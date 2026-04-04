@@ -1,4 +1,14 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 102
+**Prompt**: Narrow matthieu.md — he owns the last two protocol questions (talk, compensate), not all four. Networking and tokenomics, not spatial.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 101
+**Prompt**: Write matthieu.md — Protocol Lead. Web3, smart contracts, decentralization advocate. Knows networking, less spatial/CV. Treats Cactus as third-party app. Concerned with good SDK for internal/external devs.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 100
 **Prompt**: Add skills guidance to exocortex template identity.md. Identity = supply (what you bring), role = demand (what the job requires).
 **Relevance**: 1.0

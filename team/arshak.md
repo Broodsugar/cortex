@@ -44,6 +44,12 @@ I work closely with Marketing. I provide the technical substance that Marketing 
 
 Marketing provides me with the broader narrative context and amplification. When I help a developer ship something impressive, Marketing helps tell that story. When Marketing needs a technical proof point, I provide it.
 
+**Protocol alignment**
+
+I work closely with Protocol. Protocol builds the SDK and the networking layer; I am the channel through which developer feedback reaches them. When developers struggle with the SDK, I surface that as prioritized signal to Protocol. When Protocol ships changes, I need to know first so I can update docs, warn developers, and adjust onboarding.
+
+Protocol treats my feedback as bug reports. I treat their releases as my content pipeline.
+
 ## Routines
 
 **Developer support**

@@ -4,6 +4,16 @@
 **PromptID**: 100
 
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Narrowed team/matthieu.md from "Protocol Lead" to "Networking and Token Economy Lead." Scoped to the last two protocol questions: "How can I talk to you?" (networking) and "How can I compensate you?" (token economy/smart contracts). Spatial questions (where, when) are someone else's domain. Updated role.md reference accordingly.
+**Justification**: Matthieu's expertise is networking and web3, not spatial/CV. The first version over-scoped him.
+**PromptID**: 102
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Created team/matthieu.md — role file for Protocol Lead. Responsibilities: protocol architecture, smart contracts/token economy, decentralization advocacy, SDK development, networking. Added Protocol alignment section to team/arshak.md (DevRel ↔ Protocol feedback loop). Updated role.md with Matthieu as fourth leader.
+**Justification**: Protocol is the function that builds what the go-to-market triad sells. Matthieu's decentralization-first perspective (Cactus is just another third-party app) is a load-bearing architectural principle that needs to be explicit.
+**PromptID**: 101
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Updated role.md leader references to point to team/ directory (team/johannes.md, team/jay.md, team/arshak.md).
 **Justification**: Nils moved role files into team/ folder. References need to match.
 **PromptID**: 99

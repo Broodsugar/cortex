@@ -84,7 +84,9 @@ Current leaders:
 - **Marketing** (Jay) — memetic propagation, narrative architecture, content. The CEO's lieutenant on all external and internal narrative. See team/jay.md.
 - **DevRel** (Arshak) — developer onboarding, SDK/DX, developer feedback loop. Makes builders successful on the real world web. See team/arshak.md.
 
-These three form the go-to-market triad: BD opens doors, Marketing crafts narratives, DevRel makes builders successful. They cross-reference each other by function in their role files.
+- **Networking & Token Economy** (Matthieu) — networking layer, smart contracts, SDK (networking/economy), decentralization advocacy. Owns the last two protocol questions: "How can I talk to you?" and "How can I compensate you?" See team/matthieu.md.
+
+BD, Marketing, and DevRel form the go-to-market triad: BD opens doors, Marketing crafts narratives, DevRel makes builders successful. Protocol builds what they all sell. They cross-reference each other by function in their role files.
 
 **Exocortex engineering**
 
