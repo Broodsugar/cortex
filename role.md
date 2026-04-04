@@ -44,6 +44,12 @@ We are responsible for the overarching architecture of our knowledge bases.
 
 Information should be designed for easy consumption and memetic fitness.
 
+**Investor relations**
+
+I make sure our investors are excited about us, our progress, and our mission. Excited investors talk about us to their friends — they become memetic propagation nodes. A well-informed, enthusiastic investor is a recruiter, a dealmaker, and an evangelist rolled into one.
+
+This means I don't just report numbers — I tell a story that makes them proud to be part of what we're building. Every update should leave them more convinced, not just more informed.
+
 **Resource allocation**
 
 Just as resource acquisition is resource input, there is also our resource output, or spend. Our enterprise has limited resources, and we must create and enforce the strategies that allow us to succeed.
@@ -73,7 +79,12 @@ We understand that the more righteous and appealing our mission is, the easier i
 
 Sync with every project leader regularly. Align their intent to keep them mission focused. Motivate them to keep them productive. Help them build and maintain their exocortex. Get our exocortices aligned on a weekly basis.
 
-Question: who are my project leaders, and how will the exocortex keep track? How often do I do this, and how?
+Current leaders:
+- **BD** (Johannes) — pipeline, revenue, market intelligence. Feeds signal from prospects and competitors to the CEO. See johannes.md.
+- **Marketing** (Jay) — memetic propagation, narrative architecture, content. The CEO's lieutenant on all external and internal narrative. See jay.md.
+- **DevRel** (Arshak) — developer onboarding, SDK/DX, developer feedback loop. Makes builders successful on the real world web. See arshak.md.
+
+These three form the go-to-market triad: BD opens doors, Marketing crafts narratives, DevRel makes builders successful. They cross-reference each other by function in their role files.
 
 **Exocortex engineering**
 
@@ -104,7 +115,11 @@ Our external facing memes (what are we sending to people). How easy is it for so
 
 Our internal facing memes (how are we communicating mission, tasks, progress etc). How easy is it to understand what we are working on and why, how to help, how to get rewarded etc.
 
- **Paper Library**
+**Investor updates**
+
+Regular updates to investors on progress, milestones, and narrative. These are not status reports — they are memetic propagation. Structure them so investors can easily retell the story to others. Use Why-How-What. Make them shareable.
+
+**Paper Library**
 
 We maintain a repository of interesting papers. Whenever we come across interesting research, we must propagate it to this library.
 

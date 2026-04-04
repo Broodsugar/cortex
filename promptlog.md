@@ -1,4 +1,49 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 92
+**Prompt**: Add investor relations responsibility and investor updates routine to role.md.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 91
+**Prompt**: Update role.md with the three known leaders (BD, Marketing, DevRel) and copy to exocortex/examplenils/role.md.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 90
+**Prompt**: Create arshak.md for head of DevRel. Responsible for onboarding developers to the network/SDK (e.g. Budbreak), improving DX, collecting feedback, propagating news. Add cross-references to all three roles.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 89
+**Prompt**: Should Johannes (BD) and Jay (Marketing) work together? If so, update their roles. Reference the function, not the person.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 88
+**Prompt**: Write jay.md — role file for head of marketing, the CEO's lieutenant meme steward on all memetic propagation tasks.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 87
+**Prompt**: Generate a role.md file called johannes.md for Auki's new head of BD, based on organization.md.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 86
+**Prompt**: Revert condensed strategy section. Paste the original simplerecipe article as-is into organization.md instead.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 85
+**Prompt**: Add robotics strategy to organization.md using simplerecipe as source material. Consult methods.md.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 84
+**Prompt**: New session. "Hey, I'm Nils. I was just hired at Auki." Onboarding prompt — testing exocortex first-contact flow.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 83
 **Prompt**: Push cortex.
 **Relevance**: 0.5

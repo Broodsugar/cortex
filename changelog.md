@@ -1,4 +1,44 @@
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Added "Investor relations" responsibility and "Investor updates" routine to role.md. Investors as memetic propagation nodes — updates should be shareable stories, not status reports.
+**Justification**: Missing from the CEO role file. Investor relations is a resource acquisition and memetic propagation function.
+**PromptID**: 92
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated role.md "Align with project leaders" routine with the three known leaders: BD (Johannes), Marketing (Jay), DevRel (Arshak). Describes the go-to-market triad and references their role files. Copied updated role.md to exocortex/examplenils/role.md.
+**Justification**: The CEO's role file had an open question about who the project leaders are. Now we know three of them.
+**PromptID**: 91
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Created arshak.md — role file for Head of DevRel. Six responsibilities (developer onboarding, developer experience, developer feedback loop, developer evangelism, BD alignment, Marketing alignment) and six routines (developer support, SDK/docs review, CEO sync, engineering sync, community engagement, integration tracking). Added "DevRel alignment" sections to johannes.md and jay.md. All three roles now cross-reference each other by function.
+**Justification**: DevRel is the third leg of the go-to-market triad: BD opens doors, Marketing crafts narratives, DevRel makes builders successful. Budbreak is the example — someone has to own that relationship technically.
+**PromptID**: 90
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Added cross-functional alignment sections to johannes.md ("Marketing alignment") and jay.md ("BD alignment"). BD feeds prospect signal to Marketing; Marketing feeds narrative assets to BD. References use function names, not people names.
+**Justification**: BD and Marketing are two sides of the same memetic propagation loop. Without explicit cross-references, the roles read as silos.
+**PromptID**: 89
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Created jay.md — role file for Head of Marketing. Framed as the CEO's lieutenant on memetic propagation. Six responsibilities (memetic engineering, narrative architecture, content production, community cultivation, channel strategy, brand guardianship) and six routines (CEO sync, content calendar, Fika prep, community update prep, landscape monitoring, signal digest). Emphasizes that this is memetic engineering, not traditional marketing.
+**Justification**: Building out role files for the leadership team as part of exocortex onboarding.
+**PromptID**: 88
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Created johannes.md — a role.md file for the Head of BD. Covers six responsibilities (pipeline development, revenue generation, relationship management, market intelligence, strategic partnerships, memetic propagation) and five routines (pipeline review, CEO sync, customer check-ins, outreach blocks, CRM hygiene). Grounded in organization.md strategy and methods.md frameworks (NASA, Why-How-What).
+**Justification**: Onboarding Johannes as the first colleague to adopt the exocortex. He needs a role definition that his AI partner can use from day one.
+**PromptID**: 87
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Replaced condensed strategy section in organization.md with the full original article from simplerecipe. Covers: perception-first thesis, locomotion/manipulation/perception taxonomy, value/cost/risk deployment framework, vineyard and retail examples, deployment benefits, zero-cost deployment via phones → glasses → robots, co-embodiment endgame, and bull case with revenue projections.
+**Justification**: Nils preferred the original article's voice and detail over the condensed version. The full piece is the canonical articulation of the strategy.
+**PromptID**: 86
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Added condensed "Our Strategy" section to organization.md (subsequently replaced — see PromptID 86).
+**Justification**: First pass at capturing robotics strategy from simplerecipe. Nils preferred the original.
+**PromptID**: 85
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Updated attention to "test if exocortex is a good writing partner." Wrote two article drafts: "The Diffusion Engine" (capitalism vs diffusionism, intercognitive bandwidth, Auki tie-in) and "The Alignment Race" (do exocortices favor greed or shared mission as alignment mechanisms). Updated promptlog with session prompts 79–83.
 **Justification**: Testing the exocortex as a writing collaborator — using methods.md (NASA, Why-How-What) to structure Nils's raw ideas into publishable pieces with Auki's mission woven through.
 **PromptID**: 81, 82

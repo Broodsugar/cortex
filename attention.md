@@ -1,1 +1,1 @@
-I want to test if my exocortex is a good writing partner.
+I am onboarding Johannes, our head of BD, into adopting the exocortex system.
