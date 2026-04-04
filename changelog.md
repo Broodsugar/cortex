@@ -1,7 +1,17 @@
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated goals.md — leader alignment routine logged (Johannes, Phil today), exocortex project updated (6 role files, Phil demoed), memetic propagation and information structuring focus areas refreshed, added investor relations to responsibilities table.
+**Justification**: Reflecting today's progress. Phil demoed but hasn't forked yet.
+**PromptID**: 106
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Updated exocortex template identity.md — added skills guidance and example Skills section. Explains that identity is supply (what you bring), role is demand (what the job requires), and the gap is where growth happens.
 **Justification**: Skills belong in identity.md because they travel with the person across roles. Gives the AI partner concrete capabilities to work with.
 **PromptID**: 100
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Created team/phil.md — Head of Robotics. Owns robot deployment, hardware integration, fleet ops, deployment cost reduction, co-embodiment readiness. Uses the Why-How-What + NASA structure. Updated role.md with Phil as sixth leader.
+**Justification**: Nils is demoing the exocortex to Phil live. Having his role file ready makes the demo concrete.
+**PromptID**: 105
 
 **Timestamp**: Apr 4 HKT, 2026
 **Change**: Restructured all five team role files (johannes, jay, arshak, matthieu, robin) with Why-How-What + NASA opening. Each file now opens with shared mission paragraph (70% of economy is physical, AI can't see it), narrows to the role-specific problem, ends with "This is the problem you must face," then drops into responsibilities below a divider. All existing content preserved — just reframed.

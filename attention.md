@@ -1,1 +1,1 @@
-I need to regroup and think about where I can add the most value for the rest of the day.
+I am unfocused.

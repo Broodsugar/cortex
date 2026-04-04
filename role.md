@@ -6,7 +6,7 @@ Our mission is to increase the intercognitive capacity of civilization: our abil
 
 As CEO, I have responsibilites and routines. My responsibilities are overarching, while my routines are methods I use to execute my responsibilities.
 
-##Responsibilities:
+## Responsibilities:
   
 **Mission alignment**
 
@@ -86,6 +86,8 @@ Current leaders:
 
 - **Spatial Intelligence** (Robin) — spatial reasoning, temporal reasoning, computer vision, perception pipeline. Owns the first two protocol questions: "Where is this?" and "When was this?" See team/robin.md.
 - **Networking & Token Economy** (Matthieu) — networking layer, smart contracts, SDK (networking/economy), decentralization advocacy. Owns the last two protocol questions: "How can I talk to you?" and "How can I compensate you?" See team/matthieu.md.
+
+- **Robotics** (Phil) — robot deployment, hardware integration, fleet operations, co-embodiment readiness. Where the perception-first strategy meets physical reality. See team/phil.md.
 
 BD, Marketing, and DevRel form the go-to-market triad: BD opens doors, Marketing crafts narratives, DevRel makes builders successful. Protocol builds what they all sell. They cross-reference each other by function in their role files.
 

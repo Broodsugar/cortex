@@ -1,4 +1,14 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 106
+**Prompt**: Done onboarding Phil (demoed, hasn't forked yet). Update goals.md with today's progress. Matthieu wants credit service review next.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 105
+**Prompt**: Live demo to Phil, head of robotics. Created team/phil.md proactively while Nils demos.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 104
 **Prompt**: Restructure all five team role files with Why-How-What and NASA. Open with shared mission, narrow to role-specific problem, then responsibilities below divider. Should feel like reading a job posting that makes you want to apply.
 **Relevance**: 0.9
