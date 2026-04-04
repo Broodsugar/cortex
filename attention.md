@@ -1,1 +1,1 @@
-I am onboarding Johannes, our head of BD, into adopting the exocortex system.
+I need to regroup and think about where I can add the most value for the rest of the day.

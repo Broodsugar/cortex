@@ -1,4 +1,9 @@
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated exocortex template identity.md — added skills guidance and example Skills section. Explains that identity is supply (what you bring), role is demand (what the job requires), and the gap is where growth happens.
+**Justification**: Skills belong in identity.md because they travel with the person across roles. Gives the AI partner concrete capabilities to work with.
+**PromptID**: 100
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Updated role.md leader references to point to team/ directory (team/johannes.md, team/jay.md, team/arshak.md).
 **Justification**: Nils moved role files into team/ folder. References need to match.
 **PromptID**: 99

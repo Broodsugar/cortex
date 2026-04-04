@@ -1,4 +1,9 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 100
+**Prompt**: Add skills guidance to exocortex template identity.md. Identity = supply (what you bring), role = demand (what the job requires).
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 99
 **Prompt**: Update role.md references to point to team/ directory. Team structure TBD — a repo of role files is a reasonable starting point.
 **Relevance**: 1.0
