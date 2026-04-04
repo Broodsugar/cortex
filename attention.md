@@ -1,1 +1,1 @@
-I am going to ship an exocortex for my colleagues today. I should be able to onboard someone by the end of the day.
+I want to test if my exocortex is a good writing partner.

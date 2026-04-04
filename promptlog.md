@@ -1,4 +1,104 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 83
+**Prompt**: Push cortex.
+**Relevance**: 0.5
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 82
+**Prompt**: Write another article — do exocortices favor diffusionism or capitalism?
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 81
+**Prompt**: Write a blogpost from articledraft.md using methods.md, weave in Auki mission.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 80
+**Prompt**: Updated attention to test exocortex as writing partner. What do you think of the draft?
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 79
+**Prompt**: I want to get back to working on the Auki SDK. (Then: insist, update attention to demo exocortex via SDK work.)
+**Relevance**: 0.8
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 78
+**Prompt**: Start a diary entry for today. Consult the changelog.
+**Relevance**: 0.7
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 77
+**Prompt**: Push exocortex again — updated examplenils/organization.md with protocol, economy, and products.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 76
+**Prompt**: Push the latest to exocortex (README rewrite).
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 75
+**Prompt**: Rewrite exocortex/README.md with the context we've built up in cortex. Use NASA/Why-How-What structure.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 74
+**Prompt**: New session. "Hey I am back. Let's get to work."
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 67
+**Prompt**: I just did my first 50 pushups for today.
+**Relevance**: 0.1
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 71
+**Prompt**: Update README.md.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 73
+**Prompt**: Copied altgoals.md contents into goals.md, restarting session. Fix the changelog before I go.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 72
+**Prompt**: Look at goals.md and role.md. Create a new altgoals.md based on my role in organization.md.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 70
+**Prompt**: Updated the $AUKI token section himself after rejecting Claude's rewrite.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 69
+**Prompt**: Read economy.md and create a simpler explanation of why the $AUKI token exists in addition to credits.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 68
+**Prompt**: Read methods.md and improve the economy section of organization.md. Tell the story of why there needs to be an economy. Introduce the token and credits. This is likely someone's first contact with the concept.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 66
+**Prompt**: Yes (approve organization.md update).
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 65
+**Prompt**: Read through the auki repo and see if you can improve organization.md.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 64
+**Prompt**: Pull the latest from auki.
+**Relevance**: 0.7
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 63
 **Prompt**: Should we add to claude.md and exocortex/claude.md that you need to consult contributing.md? The exocortex doesn't have that file, or the changelog or promptlog yet, but should.
 **Relevance**: 1.0

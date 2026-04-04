@@ -1,4 +1,49 @@
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated attention to "test if exocortex is a good writing partner." Wrote two article drafts: "The Diffusion Engine" (capitalism vs diffusionism, intercognitive bandwidth, Auki tie-in) and "The Alignment Race" (do exocortices favor greed or shared mission as alignment mechanisms). Updated promptlog with session prompts 79–83.
+**Justification**: Testing the exocortex as a writing collaborator — using methods.md (NASA, Why-How-What) to structure Nils's raw ideas into publishable pieces with Auki's mission woven through.
+**PromptID**: 81, 82
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Rewrote exocortex/README.md. Opens with the problem (your AI agent is a stranger every session), builds to the solution (structured context files), then covers setup, what changes, teams, and philosophy. Uses NASA structure. Added bold tagline at the top: "a mission-driven AI copilot that prompts you back."
+**Justification**: The old README was functional but generic — it listed features without establishing the need. Someone landing on the repo needs to feel the problem before seeing a file tree.
+**PromptID**: 75
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Nils replaced goals.md with the altgoals.md structure. Goals now have four sections: daily habits, weekly routines, responsibilities (seven CEO responsibilities with current focus), and projects. Removed altgoals.md.
+**Justification**: The role-derived structure is a better fit than the old habits + long-term split.
+**PromptID**: 73
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Created altgoals.md — an alternative goals structure derived from role.md. Four sections: daily habits (carried over), weekly routines (from role's routines), responsibilities (the seven CEO responsibilities with current focus areas), and projects (concrete things with end states).
+**Justification**: The current goals.md mixes personal habits with big aspirations. The role defines clear responsibilities and routines that should drive goal-setting.
+**PromptID**: 72
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated README.md file table to reflect current structure. Added identity.md, organization.md, role.md, methods.md, glossary.md, diary.md, changelog.md, promptlog.md. Removed nils.md. Generalized intro language.
+**Justification**: File table was stale — still referenced nils.md and was missing most of the new files.
+**PromptID**: 71
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Nils rewrote the $AUKI token section of organization.md. Simplified to three paragraphs: how you get credits (earn or burn), what the token does (onramp/offramp + deflationary), and the choice between consuming credits or redeeming for tokens. Also updated products table (renamed Posemesh to "The Real World Web", removed Boxscout) and expanded the Auki Labs revenue section to mention the treasury.
+**Justification**: Claude's rewrite was too long and hand-holdy. Nils wrote a more direct version.
+**PromptID**: 70
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Rewrote the economy section of organization.md using NASA/Why-How-What structure from methods.md. Starts with why a decentralized network needs an economy at all, then introduces credits as the stable currency, $AUKI as the token behind them, the burn/deflation mechanism, the Reward Pool for cashing out, staking as reputation collateral, and Auki Labs revenue. Written for first-time readers with no crypto/token background.
+**Justification**: The previous version jumped straight into mechanics (burn rates, pro-rata claims) without establishing why any of it exists. Someone's first contact with the concept needs the need before the solution.
+**PromptID**: 68
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated pushups goal to 25% (50/200) for Apr 4.
+**Justification**: Nils reported first set of 50 pushups.
+**PromptID**: 67
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Expanded organization.md with concrete product and protocol details from the auki repo: the two core operations (convert_pose, convert_time), Domains, the spatial intelligence pipeline, joining flow, key components table, offline operation, economic model (credits, $AUKI deflation, staking, revenue), and products table. Values section unchanged.
+**Justification**: organization.md had mission and values but nothing about what Auki actually builds. Claude needs to understand the protocol, architecture, and economics to be useful to any Auki employee.
+**PromptID**: 66
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Added contributing.md reference to both cortex/claude.md and exocortex/claude.md. Created contributing.md, changelog.md, and promptlog.md in the exocortex template with seed entries as examples.
 **Justification**: Logging discipline needs to be enforced from the first session. The exocortex template was missing this infrastructure.
 **PromptID**: 63
