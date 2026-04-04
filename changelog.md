@@ -1,3 +1,28 @@
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Added contributing.md reference to both cortex/claude.md and exocortex/claude.md. Created contributing.md, changelog.md, and promptlog.md in the exocortex template with seed entries as examples.
+**Justification**: Logging discipline needs to be enforced from the first session. The exocortex template was missing this infrastructure.
+**PromptID**: 63
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Backfilled promptlog (PromptIDs 54–62) and changelog for this session. Had missed logging from session start.
+**Justification**: Nils called it out. No excuse — logging should happen with every change.
+**PromptID**: 62
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Removed nils.md. identity.md (copied from examplenils) now serves as the single source for personal context.
+**Justification**: Consolidating to match the exocortex template structure. No duplicate files.
+**PromptID**: 61
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Copied identity.md, organization.md, role.md, methods.md, glossary.md from exocortex/examplenils/ to cortex root. Updated claude.md with structured reading order (identity → values → org → role → goals → methods), alignment chain, and generalized language.
+**Justification**: Bringing cortex in line with the exocortex template structure. Combines best of both claude.md versions.
+**PromptID**: 60
+
+**Timestamp**: Apr 4 HKT, 2026
+**Change**: Updated exocortex/design.md with full design notes: core triple (identity, values, product) at three nested levels (individual, org, project), input/output flows, bootstrap questions, open questions.
+**Justification**: Capturing the design discussion before ideas are lost. Nils requested the update.
+**PromptID**: 55
+
 **Timestamp**: Apr 3 HKT, 2026
 **Change**: Created diary.md with first entry (Friday, April 3). Added diary rules to contributing.md: append-only, latest on top, plural first person, only written when Nils asks.
 **Justification**: Nils wants a human-readable record of what we accomplish together, written on demand.

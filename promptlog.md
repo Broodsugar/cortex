@@ -1,3 +1,53 @@
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 63
+**Prompt**: Should we add to claude.md and exocortex/claude.md that you need to consult contributing.md? The exocortex doesn't have that file, or the changelog or promptlog yet, but should.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 62
+**Prompt**: Where are my changelog and promptlog updates?
+**Relevance**: 0.7
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 61
+**Prompt**: We no longer need nils.md, we should be using identity.md.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 60
+**Prompt**: Please compare claude.md and exocortex/examplenils/claude.md. Suggest edits to local claude.md.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 59
+**Prompt**: Pull the latest from exocortex.
+**Relevance**: 0.8
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 58
+**Prompt**: Added "organization" section to design.md — org mission, strategy, good execution.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 57
+**Prompt**: Introduced the concept of "role" in design.md — what is my role and responsibility.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 56
+**Prompt**: Made exocortex/design.md — a place to write down how we want the exocortex to work.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 55
+**Prompt**: Discussion on nested structure: L1 individual, L2 org, L3 project. Each has identity/values/product + input/output. Maybe "values" is really "constraints." Pulled back — too abstract, not human friendly.
+**Relevance**: 1.0
+
+**Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 54
+**Prompt**: Good morning. I have the exocortex repo loaded, that's the one I'm going to be building.
+**Relevance**: 1.0
+
 **Timestamp**: Apr 3 HKT, 2026
 **PromptID**: 53
 **Prompt**: Take the diary entry and populate into diary.md. Create instructions that diary is append-to-top, prompted by human only.
