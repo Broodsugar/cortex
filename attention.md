@@ -1,3 +1,1 @@
-Support Matthieu in "figure out if discovery is a capability. study libp2p."
-
-today (saturday) we need to start shipping demoable components!
+I am going to ship an exocortex for my colleagues today. I should be able to onboard someone by the end of the day.
