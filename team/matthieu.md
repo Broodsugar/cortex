@@ -32,6 +32,10 @@ I am responsible for building SDK components that let both internal and external
 
 I work closely with DevRel to understand what developers need, and I treat DevRel's feedback as high-priority signal.
 
+**Spatial Intelligence alignment**
+
+I work closely with Spatial Intelligence. Together we cover all four protocol questions — they own "Where?" and "When?", I own "How do we talk?" and "How do we compensate?" Our domains overlap at the edges: spatial data flows through my networking layer, and spatial services get paid through my token economy. Our SDK components must compose cleanly so developers don't have to understand the boundary.
+
 **DevRel alignment**
 
 I work closely with DevRel. DevRel surfaces what's broken, confusing, or missing in the SDK and documentation. I treat their feedback as prioritized bug reports.

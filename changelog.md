@@ -4,6 +4,11 @@
 **PromptID**: 100
 
 **Timestamp**: Apr 4 HKT, 2026
+**Change**: Created team/robin.md — Spatial Intelligence Lead. Owns the first two protocol questions: "Where is this?" (spatial reasoning, coordinate systems, transforms) and "When was this?" (temporal reasoning, clock sync). Also owns CV/perception pipeline. Added Spatial Intelligence alignment to team/matthieu.md. Updated role.md with Robin as fifth leader. All four protocol questions now have an owner.
+**Justification**: Matthieu was narrowed to networking + tokenomics, leaving spatial unassigned. Robin fills that gap. The two functions together cover the full protocol.
+**PromptID**: 103
+
+**Timestamp**: Apr 4 HKT, 2026
 **Change**: Narrowed team/matthieu.md from "Protocol Lead" to "Networking and Token Economy Lead." Scoped to the last two protocol questions: "How can I talk to you?" (networking) and "How can I compensate you?" (token economy/smart contracts). Spatial questions (where, when) are someone else's domain. Updated role.md reference accordingly.
 **Justification**: Matthieu's expertise is networking and web3, not spatial/CV. The first version over-scoped him.
 **PromptID**: 102

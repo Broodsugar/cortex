@@ -1,4 +1,9 @@
 **Timestamp**: Apr 4 HKT, 2026
+**PromptID**: 103
+**Prompt**: Robin owns spatio-temporal — create team/robin.md for Spatial Intelligence Lead. Fills the gap: first two protocol questions.
+**Relevance**: 0.9
+
+**Timestamp**: Apr 4 HKT, 2026
 **PromptID**: 102
 **Prompt**: Narrow matthieu.md — he owns the last two protocol questions (talk, compensate), not all four. Networking and tokenomics, not spatial.
 **Relevance**: 0.9
